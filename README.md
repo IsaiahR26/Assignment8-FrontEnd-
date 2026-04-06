@@ -30,12 +30,12 @@ Prerequisites:
 
 STEPS TO RUN THE FRONTEND
 
-Step 1: Click on your repository.
-Step 2: Access the clone link within GitHub where the Code (in green) dropdown is.
-Step 3: Find the SSH tab
-Step 4: You'll see a url for the clone link, next to it, you can copy that url link to the clipboard.
-Step 5: Open the repository folder in your visual studio code and open your terminal.
-Step 6: Once you're in the terminal, type in: git clone YOURURLLINKHERE
+1. Click on your repository.
+2. Access the clone link within GitHub where the Code (in green) dropdown is.
+3. Find the SSH tab
+4. You'll see a url for the clone link, next to it, you can copy that url link to the clipboard.
+5. Open the repository folder in your visual studio code and open your terminal.
+6. Once you're in the terminal, type in: git clone YOURURLLINKHERE
 
 
 USAGE INSTRUCTIONS
